@@ -1,0 +1,74 @@
+JOBVITE.widget.getCategoriesCallback({
+"org.springframework.validation.BindingResult.categories": "org.springframework.validation.BeanPropertyBindingResult: 0 errors",
+"categories": [
+{
+"name": "Administrative Support",
+"eid": "apV9Vfw8"
+},
+{
+"name": "Business Development",
+"eid": "aWV9VfwF"
+},
+{
+"name": "Customer Service",
+"eid": "awV9Vfwf"
+},
+{
+"name": "Executive Management",
+"eid": "ayV9Vfwh"
+},
+{
+"name": "Finance and Accounting",
+"eid": "aAV9Vfwj"
+},
+{
+"name": "Human Resources",
+"eid": "aDV9Vfwm"
+},
+{
+"name": "IT Engineering",
+"eid": "aqV9Vfw9"
+},
+{
+"name": "Logistics",
+"eid": "avV9Vfwe"
+},
+{
+"name": "MAP Sales",
+"eid": "aKV9Vfwt"
+},
+{
+"name": "MAP Support",
+"eid": "atV9Vfwc"
+},
+{
+"name": "Marketing",
+"eid": "aIV9Vfwr"
+},
+{
+"name": "MINDBODY Exchange",
+"eid": "arV9Vfwa"
+},
+{
+"name": "Product Design",
+"eid": "axV9Vfwg"
+},
+{
+"name": "Product Development",
+"eid": "aoV9Vfw7"
+},
+{
+"name": "Product Management",
+"eid": "asV9Vfwb"
+},
+{
+"name": "Quality Assurance",
+"eid": "aNV9Vfww"
+},
+{
+"name": "Sales",
+"eid": "aPV9Vfwy"
+}
+],
+"companyName": "MINDBODY, Inc"
+})
