@@ -59,7 +59,7 @@
                             var description = job.briefdescription || job.description.substring(0, 200);
                             html +=
                                 '<div class="jobvite-job">' +
-                                    '<span class="jobvite-jobtitle"><a href="' + job['detail-url'] + '" class="jobvite-jobdetaillink">' +  job.title + '</a></span>' 
+                                    '<span class="jobvite-jobtitle" style="color:#F58D1D">' +  job.title + '</a></span>' 
                                     //Don't want to show all this extra information
                                     // +'<span class="jobvite-joblocation">' + job.location + '</span>' +
                                     // '<span class="jobvite-jobdescription">' + description + '</span>' +
